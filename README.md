@@ -63,6 +63,7 @@ Leverage gamification to build engaging solutions that inspire social change, wh
 - Lenaic (Chaire UNESCO ITEN) Business
 - Luc (XRPL Commons) Business and General Technology
 - Thomas (XRPL Commons) Technology
+- Florian (XRPL Commons) Technology
 - Nathan (Cypher Lab) Technology
 - Yué (Ecole 42) Technology
 - Modupe Business and General Technology
