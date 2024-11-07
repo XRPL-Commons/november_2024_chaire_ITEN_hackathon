@@ -1,34 +1,5 @@
 # November 2024 chaire UNESCO ITEN Hackathon
 
-------------
-## links
-
-### Hackathon Ideas
-https://github.com/XRPL-Commons/community-ideas/blob/main/hackathon/index.md
-
-### Youtube tutorials
-https://www.youtube.com/channel/UCwlHiotQWku7DztcnH3zrzw
-
-### Official documentation
-https://xrpl.org
-
-### learn the basics
-https://learn.xrpl.org
-
-### Create Wallets, Trustlines and Escrows
-https://github.com/XRPL-Commons/xrpl-commons-tutorials
-
-### EVM Documentation and setup
-https://github.com/XRPL-Commons/Jan2024_EVM_Links
-
-### Using and EVM smart contract
-https://github.com/XRPL-Commons/Jan2024_web3/blob/main/readme.md
-
-### Training Resources (April 2024)
-https://github.com/XRPL-Commons/xrpl-training-april-2024
-
-
-
 -------
 ## Themes
 
@@ -62,7 +33,6 @@ Leverage gamification to build engaging solutions that inspire social change, wh
 _These are just exmaples to spark inspiration! Feel free to build on these ideas or create something entirely unique within each theme._
 
 -------------
-
 ## Rules
 
 - Build on Mainnet and XRPL EVM Sidechain
@@ -76,6 +46,47 @@ _These are just exmaples to spark inspiration! Feel free to build on these ideas
 - demo (how well you articulate your solution for the user)
 - potential (the total value transacted on chain, the business model, and the potential reach)
 
+------------
+## XRPL links
+
+### Hackathon Ideas
+https://github.com/XRPL-Commons/community-ideas/blob/main/hackathon/index.md
+
+### Youtube tutorials
+https://www.youtube.com/channel/UCwlHiotQWku7DztcnH3zrzw
+
+### Official documentation
+https://xrpl.org
+
+### learn the basics
+https://learn.xrpl.org
+
+### Create Wallets, Trustlines and Escrows
+https://github.com/XRPL-Commons/xrpl-commons-tutorials
+
+### EVM Documentation and setup
+https://github.com/XRPL-Commons/Jan2024_EVM_Links
+
+### Using and EVM smart contract
+https://github.com/XRPL-Commons/Jan2024_web3/blob/main/readme.md
+
+### Training Resources (April 2024)
+https://github.com/XRPL-Commons/xrpl-training-april-2024
+
+------------
+## Regenerative Finance links
+
+### Token Engineering Commons
+https://tecommons.org/
+
+### Trusted Seed, a Value-Driven Community Advancing Regen Cooperatives
+https://trustedseed.org/
+
+### Sustainable Blockchain Summit 2023
+https://www.youtube.com/playlist?list=PL_0VrY55uV19YTddVrX99-dLTdoDJ_mO1
+ 
+### The Green Crypto Handbook
+https://cosmic-move-29b.notion.site/The-Green-Crypto-Handbook-10c874bd4c32803e8494eebd005cc303?pvs=4
 
 -------------
 ## Mentors
