@@ -50,6 +50,10 @@ _These are just exmaples to spark inspiration! Feel free to build on these ideas
 - potential (the total value transacted on chain, the business model, and the potential reach)
 
 ------------
+## ZOOM Link
+https://us06web.zoom.us/j/82643635631?pwd=nlXyDA8HppmhylWFobvMe2SGglBGvJ.1
+
+------------
 ## XRPL links
 
 ### Hackathon Ideas
